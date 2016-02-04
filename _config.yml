@@ -1,0 +1,28 @@
+name: Simsara
+favicon: null
+layout_spectrum: 0.9472674722783267
+typography_spectrum: 0.4479667632840574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6959559957031161
+  lightness: 0.2808101256377995
+  saturation: 0.3894092324189842
+  rhythmicContrast: 0.6630239121150225
+purpose: []
