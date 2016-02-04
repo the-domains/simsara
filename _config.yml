@@ -2,12 +2,13 @@ name: Simsara
 favicon: null
 layout_spectrum: 0.9472674722783267
 typography_spectrum: 0.37931
+title: 'PR & Communications Agency for Arabic Music'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-38452188-7
   facebook: null
   twitter: null
 opengraph:
